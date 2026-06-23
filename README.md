@@ -1,4 +1,4 @@
-## Hi there 👋
+## Namaste 👋
 
 <!--
 **sarojana1105/sarojana1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
