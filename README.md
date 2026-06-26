@@ -15,4 +15,4 @@
 - Improve problem-solving skills
 - Stay consistent on GitHub
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile! 😊
