@@ -1,4 +1,4 @@
- Hello, I'm Sarojana 👋
+ Hey, I'm Sarojana 👋
 
 ## 👩‍💻 About Me
 - 🎓 B.Tech 2nd Year Student
