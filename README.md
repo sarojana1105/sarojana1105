@@ -1,16 +1,18 @@
-# Namaste 👋
+ Hello, I'm Sarojana 👋
 
-<!--
-**sarojana1105/sarojana1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 B.Tech 2nd Year Student
+- 💻 Learning C Programming
+- 🌱 Currently exploring Git and GitHub
+- 📚 Interested in Data Structures and Algorithms
 
-Here are some ideas to get you started:
+## 🛠️ Tech
+- C
+- Git
+- GitHub
+- Learn DSA
+- Build C projects
+- Improve problem-solving skills
+- Stay consistent on GitHub
 
-- 🔭 I’m currently learning C programming, Git and Github
-- 🌱 I’m currently studying...
--    I enjoy learning new technologies and improving my coding skill.
-- 🤔 I’m looking for help with coding and problem solving
-- 💬 Ask me about coding ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
